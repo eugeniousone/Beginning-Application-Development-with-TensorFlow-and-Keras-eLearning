@@ -23,7 +23,7 @@ MarkupSafe==1.0
 nose==1.3.7
 numpy==1.13.3
 pandas==0.21.1
-protobuf==3.5.0.post1
+protobuf==4.25.8
 python-dateutil==2.6.1
 pytz==2017.3
 PyYAML==3.12
@@ -35,5 +35,5 @@ six==1.11.0
 tensorflow==1.4.1
 tensorflow-tensorboard==0.4.0rc3
 termstyle==0.1.11
-urllib3==1.22
+urllib3==2.5.0
 Werkzeug==0.13
